@@ -7,6 +7,7 @@ public class EmployeeData {
     private int employeeSalary;
     //Creating Constructor
     public EmployeeData(int employeeId, String employeeName, int employeeSalary) {
+        super();
         this.employeeId = employeeId;
         this.employeeName = employeeName;
         this.employeeSalary = employeeSalary;

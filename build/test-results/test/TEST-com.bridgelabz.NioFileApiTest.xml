@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.NioFileApiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-06T11:12:00" hostname="DESKTOP-1A5CKOQ" time="0.115">
+  <properties/>
+  <testcase name="givenPathWhenCheckedThenConfirm" classname="com.bridgelabz.NioFileApiTest" time="0.115"/>
+  <system-out><![CDATA[C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp1
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp2
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp3
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp4
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp5
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp6
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp7
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp8
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp9
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp1
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp2
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp3
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp4
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp5
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp6
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp7
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp8
+C:\Users\HARISH VIVARAMNENI\TempPlayGround\temp9
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
